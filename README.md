@@ -1,5 +1,5 @@
 # BRTS
-Python implementation of Balanced Linear Contextual Bandits (BRTS) [[1]](#1).
+Python implementation of the Balanced Linear Contextual Bandits (BRTS) [[1]](#1).
 
 
 ## Reference
