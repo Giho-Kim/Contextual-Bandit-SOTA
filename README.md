@@ -1,6 +1,11 @@
 # BRTS
 Python implementation of the Balanced Linear Contextual Bandits (BRTS) [[1]](#1).
 
+## Quick Start
+With our default setting
+```
+python main.py
+```
 
 ## Reference
 <a id="1">[1]</a>
