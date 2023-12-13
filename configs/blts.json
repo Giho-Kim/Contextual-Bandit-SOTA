@@ -1,0 +1,8 @@
+{
+    "algo" : "BLTS",
+    "T" : 200,
+    "lam" : 0.1,
+    "thres" : 0.5,
+    "alpha" : 1.0,
+    "fill_buffer" : 10
+}
