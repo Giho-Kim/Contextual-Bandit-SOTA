@@ -6,7 +6,7 @@ With the default setting, you can run experiment as follows:
 ```
 python main.py ./configs/ALGO_TO_USE.json
 ```
-
+Parameters can be modified manually in ./configs/ALGO_TO_USE.json
 
 ## Reference
 <a id="1">[1]</a>
