@@ -1,5 +1,5 @@
 # BRTS
-Python implementation of the Balanced Linear Contextual Bandits (BRTS) [[1]](#1) with baseline method (LinTS) [[2]](#2), and Random policy.
+Python implementation of Balanced Linear Contextual Bandits (BRTS) [[1]](#1), Thompson Sampling for Contextual Bandits with Linear Payoffs (LinTS) [[2]](#2), and Random baseline.
 
 ## Usage
 With the default setting, you can run experiment as follows:
@@ -17,4 +17,6 @@ python main.py --lam=0.1 --thres=0.5 --alpha=1.0 --T=1000 --fill_buffer=10
 Dimakopoulou, M., Zhou, Z., Athey, S., & Imbens, G. (2019). Balanced Linear Contextual Bandits. Proceedings of the AAAI Conference on Artificial Intelligence, 33(01), 3445-3453. https://doi.org/10.1609/aaai.v33i01.33013445
 
 <a id="2">[2]</a>
-Dimakopoulou, M., Zhou, Z., Athey, S., & Imbens, G. (2019). Balanced Linear Contextual Bandits. Proceedings of the AAAI Conference on Artificial Intelligence, 33(01), 3445-3453. https://doi.org/10.1609/aaai.v33i01.33013445
+Agrawal, S. &amp; Goyal, N.. (2013). Thompson Sampling for Contextual Bandits with Linear Payoffs. <i>Proceedings of the 30th International Conference on Machine Learning, in Proceedings of Machine Learning Research, 28(3):127-135 Available from https://proceedings.mlr.press/v28/agrawal13.html.
+
+
