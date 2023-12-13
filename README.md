@@ -1,5 +1,5 @@
 # SOTA Contextual Bandit algorithms
-Python implementation of Balanced Linear Contextual Bandits (BRTS) [[1]](#1), Thompson Sampling for Contextual Bandits with Linear Payoffs (LinTS) [[2]](#2), and Random baseline.
+Python implementation of Balanced Linear Contextual Bandits (BRTS) [[1]](#1), Thompson Sampling for Contextual Bandits with Linear Payoffs (LinTS) [[2]](#2), and random baseline policy.
 
 ## Usage
 With the default setting, you can run experiment as follows:
