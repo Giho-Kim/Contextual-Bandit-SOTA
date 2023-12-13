@@ -4,11 +4,7 @@ Python implementation of Balanced Linear Contextual Bandits (BRTS) [[1]](#1), Th
 ## Usage
 With the default setting, you can run experiment as follows:
 ```
-python main.py
-```
-The parameters can be changed by adding additional command-line arguments:
-```
-python main.py ./configs/BRTS.json
+python main.py ./configs/ALGO_TO_USE.json
 ```
 
 
