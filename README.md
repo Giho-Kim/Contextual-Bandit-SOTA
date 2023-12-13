@@ -9,7 +9,6 @@ python main.py
 The parameters can be changed by adding additional command-line arguments:
 ```
 python main.py --lam=0.1 --thres=0.5 --alpha=1.0 --T=1000 --fill_buffer=10
-
 ```
 
 
