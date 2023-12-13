@@ -2,7 +2,7 @@
 Python implementation of the Balanced Linear Contextual Bandits (BRTS) [[1]](#1).
 
 ## Usage
-With our default setting, you can run experiment as follows:
+With the default setting, you can run experiment as follows:
 ```
 python main.py
 ```
